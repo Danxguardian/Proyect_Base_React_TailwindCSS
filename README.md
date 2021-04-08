@@ -9,7 +9,7 @@ _La parte visual la desarrollare con TailwindCSS pero solo es para el html, todo
 
 ### Instalación 📋
 
-_Primero necesitamos instalar todos los modules de node que se han ido ocupando, cada que bajen recuerden checar si no hay nuevos modulos por instalar _
+_Primero necesitamos instalar todos los modules de node que se han ido ocupando, cada que bajen recuerden checar si no hay nuevos modulos por instalar_
 
 ```
 npm install
@@ -27,7 +27,7 @@ _Una vez que corrar en automatico abrira el navegador y ya que el proyecto esta 
 
 ```
 
-http://localhost:9999 o 
+http://localhost:9999
 
 ```
 _Si quieres ver lo en un dispositivo para no estar cambiando de pestaña, dirigite a_
