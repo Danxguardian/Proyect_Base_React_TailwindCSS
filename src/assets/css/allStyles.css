@@ -1,4 +1,40 @@
-/* HERE EXTRA CSS */
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
 .base {
     color: red;
+}
+
+.app {
+    padding: 1rem;
+}
+
+/* HERE EXTRA CSS */
+
+/* TITLE */
+
+h2 {
+    @apply border-b-4 border-indigo-600;
+}
+
+/* MENU */
+
+ul {
+    clear: both;
+    float: left;
+    width: 100%;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    float: left;
+}
+
+.menuOption {
+    @apply px-4 py-2 bg-gray-300;
 }
